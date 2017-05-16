@@ -1,4 +1,4 @@
- [v0.0.5](https://github.com/littleflute/Stevie-Ray-Vaughan/edit/master/README.md)
+ [v0.0.6](https://github.com/littleflute/Stevie-Ray-Vaughan/edit/master/README.md)
 
 [SRV Disc 1](SRV Disc 1/)
 
@@ -31,9 +31,25 @@ function f(i)
     {
         s += "02 I'm Cryin'.mp3";
     }
-    else if(i==18)
+    else if(i==3)
     {
         s += "03 You're Gonna Miss Me Baby.mp3";
+    }
+    else if(i==14)
+    {
+        s += "14 Pride and Joy.mp3";
+    }
+    else if(i==16)
+    {
+        s += "16 Hug You, Squeeze You [Live].mp3";
+    }
+    else if(i==17)
+    {
+        s += "17 Don't Stop by the Creek, Son.mp3";
+    }
+    else if(i==18)
+    {
+        s += "18 Ask Me No Questions.mp3";
     }
     else
     {
