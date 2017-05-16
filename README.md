@@ -25,15 +25,15 @@ function f(i)
     var s = "https://littleflute.github.io/Stevie-Ray-Vaughan/SRV Disc 1/";
     if(i==1)
     {
-        s += "01 Thunderbird [#].mp3";
+        s += "01 Thunderbird.mp3";
     }
     else if(i==2)
     {
-        s += "02 I'm Cryin' [#].mp3";
+        s += "02 I'm Cryin'.mp3";
     }
     else if(i==18)
     {
-        s += "18 Ask Me No Questions.mp3";
+        s += "03 You're Gonna Miss Me Baby.mp3";
     }
     else
     {
