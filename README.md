@@ -1,4 +1,4 @@
- [v0.1.0](https://github.com/littleflute/Stevie-Ray-Vaughan/edit/master/README.md)
+ [v0.1.1](https://github.com/littleflute/Stevie-Ray-Vaughan/edit/master/README.md)
 
 [SRV Disc 1](SRV Disc 1/)
 
@@ -12,7 +12,7 @@ Your browser does not support the audio element.
 var d = document.getElementById("xd"); 
 var html = d.innerHTML; 
 html += " ABBA<br>ABBA gold<br>CD:<br>";
-for(var n=1; n<=19; n++)
+for(var n=1; n<=18; n++)
 {	
  	html += fNewBtn(n);
 
@@ -71,9 +71,17 @@ function f(i)
     {
         s += "12 Texas Flood [Live].mp3";
     }
+    else if(i==13)
+    {
+        s += "13 Collins Shuffle [Live].mp3";
+    }
     else if(i==14)
     {
         s += "14 Pride and Joy.mp3";
+    }
+    else if(i==15)
+    {
+        s += "15 Love Struck Baby [Live].mp3";
     }
     else if(i==16)
     {
