@@ -1,4 +1,4 @@
- [v0.0.9](https://github.com/littleflute/Stevie-Ray-Vaughan/edit/master/README.md)
+ [v0.1.0](https://github.com/littleflute/Stevie-Ray-Vaughan/edit/master/README.md)
 
 [SRV Disc 1](SRV Disc 1/)
 
@@ -58,6 +58,14 @@ function f(i)
     else if(i==9)
     {
         s += "09 Don't Lose Your Cool [Live].mp3";
+    }
+    else if(i==10)
+    {
+        s += "10 Crosscut Saw [Live].mp3";
+    }
+    else if(i==11)
+    {
+        s += "11 Manic Depression [Live].mp3";
     }
     else if(i==12)
     {
