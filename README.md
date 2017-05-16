@@ -1,7 +1,7 @@
- [v0.0.2](https://github.com/littleflute/Stevie-Ray-Vaughan/edit/master/README.md)
+ [v0.0.3](https://github.com/littleflute/Stevie-Ray-Vaughan/edit/master/README.md)
 
 <audio controls id="player"> 
-  <source src="https://littleflute.github.io/Stevie-Ray-Vaughan/SRV Disc 1/01 Thunderbird [#].mp3" type="audio/mpeg">
+  <source src="https://littleflute.github.io/Stevie-Ray-Vaughan/SRV Disc 1/18 Ask Me No Questions.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 <div id="xd"> 
@@ -28,6 +28,10 @@ function f(i)
     else if(i==2)
     {
         s += "02 I'm Cryin' [#].mp3";
+    }
+    else if(i==18)
+    {
+        s += "18 Ask Me No Questions.mp3";
     }
     else
     {
