@@ -1,4 +1,4 @@
- [v0.0.6](https://github.com/littleflute/Stevie-Ray-Vaughan/edit/master/README.md)
+ [v0.0.7](https://github.com/littleflute/Stevie-Ray-Vaughan/edit/master/README.md)
 
 [SRV Disc 1](SRV Disc 1/)
 
@@ -34,6 +34,14 @@ function f(i)
     else if(i==3)
     {
         s += "03 You're Gonna Miss Me Baby.mp3";
+    }
+    else if(i==4)
+    {
+        s += "04 They Call Me Guitar Hurricane [Live].mp3";
+    }
+    else if(i==5)
+    {
+        s += "05 All Your Love (I Miss Loving) [Live].mp3";
     }
     else if(i==14)
     {
