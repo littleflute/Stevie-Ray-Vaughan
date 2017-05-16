@@ -1,4 +1,4 @@
- [v0.0.4](https://github.com/littleflute/Stevie-Ray-Vaughan/edit/master/README.md)
+ [v0.0.5](https://github.com/littleflute/Stevie-Ray-Vaughan/edit/master/README.md)
 
 [SRV Disc 1](SRV Disc 1/)
 
