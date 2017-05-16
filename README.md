@@ -1,4 +1,4 @@
- [v0.0.7](https://github.com/littleflute/Stevie-Ray-Vaughan/edit/master/README.md)
+ [v0.0.8](https://github.com/littleflute/Stevie-Ray-Vaughan/edit/master/README.md)
 
 [SRV Disc 1](SRV Disc 1/)
 
@@ -42,6 +42,22 @@ function f(i)
     else if(i==5)
     {
         s += "05 All Your Love (I Miss Loving) [Live].mp3";
+    }
+    else if(i==6)
+    {
+        s += "06 Come on, Pt. 3.mp3";
+    }
+    else if(i==7)
+    {
+        s += "07 Letter to My Girlfriend.mp3";
+    }
+    else if(i==8)
+    {
+        s += "08 Lenny.mp3";
+    }
+    else if(i==9)
+    {
+        s += "09 Don't Lose Your Cool [Live].mp3";
     }
     else if(i==14)
     {
